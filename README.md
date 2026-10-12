@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LibertyWings94
+- 👋 Hi, I’m @LibertyWings94 - Junior Full Stakc Developer
 - 👀 I’m interested in gaming, coding, guitar playing, reading and fitness
-- 🌱 I’m currently learning C#, SQL, HTML
+- 🌱 Codin in C#, SQL, PHP and HTML
 - 💞️ I’m looking to collaborate on API development and Full-Stack Development of web apps
 - 📫 How to reach me:
 
